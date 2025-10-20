@@ -37,6 +37,12 @@ As a use case example of CT-DImQ-NPS, you can perform analysis on the provided C
 #### ROI controller
 The central slice of the image stack will be displayed by default. The user can change slices and select ROI with interactive sliders and a manual input fields. **"Display mode"** controls the image adjustment, which can be done either by thresholding ("Threshold") or by adjusting window level and width ("Window/Level"). When "Threshold" mode is selected, "Window Level" and "Window Width" controls are inactive, and vice versa.
 
+> [!IMPORTANT]
+> Python uses zero-based indexing, therefore the first slice is numbered as 0 (not 1).
+
+> [!NOTE]
+> For users familiar with **ImageJ** or **Fiji** software: Manual input of coordinates is the same as in ImageJ/Fiji, but with an offset of one index due to differing indexing conventions between Python (zero-based indexing) and ImageJ (one-based indexing).
+
 Cropped ROI is displayed on "Applied ROI Histogram" tab.
 
 Histogram below the ROI controller shows distribution of CT values of displayed image slice.
