@@ -29,7 +29,9 @@ The user can import any folder(s) containing CT DICOM slices.
 #### Use case example
 As a use case example of CT-DImQ-NPS, you can perform analysis on the provided CT anthropomorphic phantom data, from the [link]([https://github.com/AK-CT-2025/CT_datasets.git](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/tree/0ecfd6ed49d45b035644763c0e0f919c420cfbdf/Dataset/3D-printed_lung_phantom)) (3D-printed thorax phantom scanned under clinical conditions at 2.6 mGy dose level, reconstructed with Iterative Reconstruction (IR) and Deep-Learning Reconstruction (DLR)).
 
-[![Watch the video](https://img.youtube.com/vi/JhNM4Fpe3U0/maxresdefault.jpg)](https://www.youtube.com/watch?v=JhNM4Fpe3U0)
+>[!TIP]
+>Demonstration of the app can be viewed through YouTube:
+>[![Watch the video](https://img.youtube.com/vi/JhNM4Fpe3U0/maxresdefault.jpg)](https://www.youtube.com/watch?v=JhNM4Fpe3U0)
 
 
 #### ROI controller
