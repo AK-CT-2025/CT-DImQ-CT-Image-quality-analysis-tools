@@ -23,12 +23,12 @@ Check out the [releases]([https://github.com/AK-CT-2025/CT-DImQ-NPS/releases](ht
 > The app will now be saved as an exception, and the app will launch when opened again.
 
 When launched, the app looks like this:
-![Screenshot of the app when launched]([https://github.com/AK-CT-2025/CT-DImQ-NPS/blob/9084febaec7cba916f524493c07a95cc880ccc5d/readme_images/mac_opened-app_screenshot.png](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0df043c879485de07a7c916795fbd1dba58bc376/readme%20images/NPS/macos_CT-DImQ-NPS_screenshot.png))
+![Screenshot of the app when launched]([https://github.com/AK-CT-2025/CT-DImQ-NPS/blob/9084febaec7cba916f524493c07a95cc880ccc5d/readme_images/mac_opened-app_screenshot.png](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0df043c879485de07a7c916795fbd1dba58bc376/readme%20images/NPS/macos_CT-DImQ-NPS_screenshot.png)
 
 #### Use case example
 As a use case example of CT-DImQ-NPS, you can perform analysis on the provided CT anthropomorphic phantom data, from the [link](https://github.com/AK-CT-2025/CT_datasets.git) (CATPHAN phantom scanned under clinical conditions at 1.7 mGy dose level, reconstructed with Filtered-Back-Projection (FBP) and iterative (IR) reconstruction algorithms).
 
-Here is the screenshot of the app from sample NPS analysis on FBP data: ![Screenshot of the app: sample NPS analysis]([https://github.com/AK-CT-2025/CT-DImQ-NPS/blob/9084febaec7cba916f524493c07a95cc880ccc5d/readme_images/macos_CT-DImQ-NPS_screenshot.png](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0df043c879485de07a7c916795fbd1dba58bc376/readme%20images/NPS/macos_CT-DImQ-NPS_screenshot.png))
+Here is the screenshot of the app from sample NPS analysis on FBP data: ![Screenshot of the app: sample NPS analysis]([https://github.com/AK-CT-2025/CT-DImQ-NPS/blob/9084febaec7cba916f524493c07a95cc880ccc5d/readme_images/macos_CT-DImQ-NPS_screenshot.png](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0df043c879485de07a7c916795fbd1dba58bc376/readme%20images/NPS/macos_CT-DImQ-NPS_screenshot.png)
 
 To get the result above, follow these steps:
 1. Click "Import files:" and select `FBP` folder from `CTDIvol_1.7mGy_FC18` dataset. There are multiple subfolders inside `FBP` which correspond to repeated acquisitions. These subfolders appear in the drop-down menu next to "Import files:" button.
