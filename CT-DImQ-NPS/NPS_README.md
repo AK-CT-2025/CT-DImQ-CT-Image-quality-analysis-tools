@@ -26,7 +26,7 @@ When launched, the app looks like this:
 ![Screenshot of the app when launched](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0df043c879485de07a7c916795fbd1dba58bc376/readme%20images/NPS/macos_CT-DImQ-NPS_screenshot.png)
 
 #### Use case example
-As a use case example of CT-DImQ-NPS, you can perform analysis on the provided CT anthropomorphic phantom data, from the [link](https://github.com/AK-CT-2025/CT_datasets.git) (CATPHAN phantom scanned under clinical conditions at 1.7 mGy dose level, reconstructed with Filtered-Back-Projection (FBP) and iterative (IR) reconstruction algorithms).
+As a use case example of CT-DImQ-NPS, you can perform analysis on the provided CT anthropomorphic phantom data, from the [link](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/tree/4b3c55ee01a6be2cf165e7a13527aa604ac8f97b/Dataset/CATPHAN) (CATPHAN phantom scanned under clinical conditions at 1.7 mGy dose level, reconstructed with Filtered-Back-Projection (FBP) and iterative (IR) reconstruction algorithms).
 
 Here is the screenshot of the app from sample NPS analysis on FBP data: ![Screenshot of the app: sample NPS analysis](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0df043c879485de07a7c916795fbd1dba58bc376/readme%20images/NPS/macos_CT-DImQ-NPS_screenshot.png)
 
