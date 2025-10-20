@@ -31,7 +31,7 @@ As a use case example of CT-DImQ-NPS, you can perform analysis on the provided C
 
 >[!TIP]
 >Demonstration of the app can be viewed through YouTube:
->[![Watch the video](https://img.youtube.com/vi/JhNM4Fpe3U0/maxresdefault.jpg)](https://www.youtube.com/watch?v=JhNM4Fpe3U0)
+[![Watch the demo](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/12035f9450332791caf6f26f6f5d4e7b7555092e/readme%20images/HistNMap/CT-DImQ-HistNMap-v100-demo.gif)](https://www.youtube.com/watch?v=YOUR_VIDEO_JhNM4Fpe3U0)
 
 
 #### ROI controller
