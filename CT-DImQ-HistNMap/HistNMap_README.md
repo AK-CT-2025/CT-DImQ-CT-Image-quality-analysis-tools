@@ -20,7 +20,7 @@ Check out the [releases]([https://github.com/AK-CT-2025/CT-DImQ-HistNMap/release
 
 
 When launched, the app looks like this:
-![Screenshot of the app when launched](https://github.com/AK-CT-2025/CT-DImQ-HistNMap/blob/e8ede7fa3d5839f06fb3c000da31ac4bab004bdb/readme%20images/launch.png)
+![Screenshot of the app when launched](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0ae89b9a2a7fae8e710f556cc0ceb9e1a51c0d74/readme%20images/HistNMap/launch.png)
 
 The app has two layouts: left layout **"ROI controls"** for ROI selection and image controls, and right layout made of two tabs: **“Applied ROI Histogram”** and **“Noise map”**.
 The user can import any folder(s) containing CT DICOM slices.
@@ -45,7 +45,7 @@ ROI image can be exported as TIFF file.
 Histogram of CT values within the ROI is shown at the bottom of the tab. 
 User can obtain histogram of ROI across slices by clicking "Get histogram across slices" button.
 
-![Applied ROI Histogram](https://github.com/AK-CT-2025/CT-DImQ-HistNMap/blob/9ac124826d2996b92bb7af09be2faf0d2e0b53aa/readme%20images/ROI%20histogram.png)
+![Applied ROI Histogram](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0ae89b9a2a7fae8e710f556cc0ceb9e1a51c0d74/readme%20images/HistNMap/ROI%20histogram.png)
 
 #### Noise map
 The tab contains a box which shows the names of all imported folders, allowing the user to select folders for noise map generation. These folders are assumed to be repeated acquisitions without phantom movement. The noise map is calculated by calculating the standard deviation of each pixel value across the selected folders. 
@@ -54,4 +54,4 @@ The user can adjust the window width and level, and export the noise map as a TI
 
 Noise map image and its histogram work in tandem with the “Apply ROI” button in the “ROI controller”.
 
-![Noise map](https://github.com/AK-CT-2025/CT-DImQ-HistNMap/blob/9ac124826d2996b92bb7af09be2faf0d2e0b53aa/readme%20images/noise%20map.png)
+![Noise map](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0ae89b9a2a7fae8e710f556cc0ceb9e1a51c0d74/readme%20images/HistNMap/noise%20map.png)
