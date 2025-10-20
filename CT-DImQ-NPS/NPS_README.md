@@ -30,7 +30,7 @@ As a use case example of CT-DImQ-NPS, you can perform analysis on the provided C
 
 >[!TIP]
 >Demonstration of the app in YouTube:
->>[![Watch the video](https://img.youtube.com/vi/12os1_qhA9I/maxresdefault.jpg)](https://www.youtube.com/watch?v=12os1_qhA9I)
+>[![Watch the video](https://img.youtube.com/vi/12os1_qhA9I/maxresdefault.jpg)](https://www.youtube.com/watch?v=12os1_qhA9I)
 
 Here is the screenshot of the app from sample NPS analysis on FBP data: ![Screenshot of the app: sample NPS analysis](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/0df043c879485de07a7c916795fbd1dba58bc376/readme%20images/NPS/macos_CT-DImQ-NPS_screenshot.png)
 
