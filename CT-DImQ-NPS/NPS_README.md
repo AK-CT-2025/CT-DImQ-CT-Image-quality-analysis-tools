@@ -13,7 +13,7 @@ If you use the codes in this repository or dataset, please cite:
 
 #### Installation
 
-Check out the [releases](https://github.com/AK-CT-2025/CT-DImQ-NPS/releases) of this repository. Find the latest release and download either `.dmg` file for MacOS or `.exe` file for Windows. 
+Check out the [releases]([https://github.com/AK-CT-2025/CT-DImQ-NPS/releases](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/releases)) of this repository. Find the latest release for NPS and download either `.app` file for MacOS or `.exe` file for Windows.
 
 > [!NOTE]
 > **Mac users** might encounter an **"unidentified developer"** error that stops the app from launching. If this occurs, follow these steps: <br/>
