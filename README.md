@@ -5,6 +5,9 @@ CT-DImQ is a family of CT image quality assessment tools, created by Ainur K, Un
 Currently, there are two image quality tools in this repository: HistNMap and NPS (readme). The applications are available for Windows and MacOS in [releases](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/releases). 
 Source codes are available upon request.
 
+### Citation
+If you use the codes in this repository or dataset, please cite:
+
 ### CT-DImQ-HistNMap
 Check readme for the application [here](https://github.com/AK-CT-2025/CT-DImQ-CT-Image-quality-analysis-tools/blob/e6f27b23dd0068ee8798d2f4afc46f76308c31af/CT-DImQ-HistNMap/HistNMap_README.md)
 
